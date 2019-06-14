@@ -22,14 +22,14 @@ Resumes Templates For Tranferring Students |Uyen Do | 06-14-2019|Jason Loan| Les
 
 ## Lesson Steps/Components [as many as needed]
 > First Step: Open Word. Click the “Resumes and Cover Letters” link under the search box to see only those types of templates.
-![alt text][open]
-[open]: https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png
+
+![Open](https://github.com/UyenDo95/Picture/blob/master/2.png?raw=true)
 
 > Now, you’ll see all the different resume styles Word has to offer. There are a lot of different styles and color schemes to choose one, so pick what feels right. If you scroll down the list a bit, you’ll also see some plainer resume templates designed for different purposes—like an entry-level, chronological, or extended CV style.
-![][] (https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png)
+![Middle](https://github.com/UyenDo95/Picture/blob/master/3.png)
 
 > Some of the templates are already built into Word; others are a quick, free download from Office.com (and you won’t even have to leave Word to grab them). When you click to create a resume, Word will let you know the download size (if it needs to download the template). Click the “Create” button and a few seconds later, you’ll be in your document and ready to edit.
-(https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png)
+![bottom](https://github.com/UyenDo95/Picture/blob/master/1.png)
 
 Tip in Building Resume
 ----------------------
