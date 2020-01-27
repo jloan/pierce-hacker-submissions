@@ -29,7 +29,7 @@ In this tutorial a student will learn how to properly set up their Papers to pre
 
 1. Click on the "Home" tab then click on "Font" and change the font to "Times New Roman", Then change the font size to 12.
 
-![Ms Word](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59212784-254a5980-8b68-11e9-9dc1-7d131020be85.png)
+![Ms Word]https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59214136-4f514b00-8b6b-11e9-86ce-aafac447654f.png)
 
 
 2. Click on the "Layout" tab...click on "Margins"...click on "Normal"...the margins will then be set to 1″ top, 1″ bottom,
@@ -45,4 +45,5 @@ In this tutorial a student will learn how to properly set up their Papers to pre
 
 ![MS Word](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59214136-4f514b00-8b6b-11e9-86ce-aafac447654f.png)
  
+ https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59212784-254a5980-8b68-11e9-9dc1-7d131020be85.png
 
