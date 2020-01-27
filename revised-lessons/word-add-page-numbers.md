@@ -22,9 +22,7 @@ To complete this this tutorial a student must have Microsoft Word.
 ## Overview:
 In this tutorial a student will learn how to add pages numbers to the top and/or to the bottom of pages in Microsoft Word creating the required header and footer.
 
-## Steps to Add Page Numbers:
-
-### Inserting page numbers into a Word Document:
+### Steps to Insert Page Numbers into a Word Document:
 
 1. Open a blank Word document and click on the “Insert” tab located on the ribbon. 
 
