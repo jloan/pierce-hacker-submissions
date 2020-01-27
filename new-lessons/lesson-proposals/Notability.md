@@ -11,23 +11,24 @@ If you have any specific questions or problems please email Jason Loan (jloan@pi
 ## Lesson Metadata
 
 3. Proposed Lesson Title: Notability on Ipad
-4. Lesson Abstract (3-4 sentences): Notability is a powerful app to make note in class or meeting. 
+4. Lesson Abstract (3-4 sentences):
 
-Students are sometimes asked to work in genres other than academic essays and in media other than print documents. One example of this kind work includes making podcasts. The purpose of this lesson is to help students get started using Audacity for projects -- like podcasts -- that require audio editing. This lesson will cover installing Audacity on a personal computer, setting up an initial project, basic audio editing tools and workflow, and exporting projects as an audio file.
+Notability iPad app creates notes that integrate handwriting, typing, drawings, audio, and pictures. Use Notability for iPad to create lecture notes and other classroom materials. Notability for iPad can also be used to annotate PDF documents, such as student assignments and class PowerPoint.
 
 5. A short description of the situation/need that your lesson responds to (consider details of purpose, audience, context):
 
-This tutorial responds to a couple of scenarios. In my English 101 classes, I sometimes ask students to make podcasts. This tutorial is meant to support them. Additionally, I want to encourage other faculty to have their students experiment with genres like podcasts. This should also be a resource that can support their work.
+This tutorial responds to a couple of scenarios. Student can put assignments and class materials to notability, they can record  and make notes with the class documents. They can also search online for relative informations about that topic and copy the informations he searched to their class documents or insert pictures. Unlike real notebook,you need to buy a new notebook after youf finished one . The notability have huge storage, you can keep your notes forever and easy to search the notes you want.
 
 6. Learning Outcomes of Tutorial (between 2-3):
 
 After completing this tutorial students:
 
-* will be able to create a new project in Audacity.
-* will be able to make basic edits to audio files within an Audacity project.
-* will be able to export a finished audio project and share it via an audio file.
+* will be able to download and create a notability account.
+* will be able to put the powerpoint, words documents or PDF to notability. 
+* will be able to make a record and make notes with notability app.
+* will be able to export a finished notes and share or send it to others through email. 
 
-7. Course most relevant to your tutorial (if any): English 101 or any course that asks students to compose with sound.
+7. Course most relevant to your tutorial (if any): any class.
 
 8. Discipline/Research Area most relevant to your tutorial? Example - Humanities / Social Sciences / Mathematics / Natural Sciences / Physical Sciences / Business-Pro-Tech / other
 
@@ -39,7 +40,7 @@ I'll have an initial draft of this complete by Friday, Jan. 31. Final version by
 
 10. Lesson will use open technology and data at no cost to the reader?
 
-Yes. Audacity is free software.
+ No. Notability cost 8.99 dollars for one purchase.
 
 11. Any other comments for the editor?
 
