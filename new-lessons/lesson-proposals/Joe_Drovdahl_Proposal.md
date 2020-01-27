@@ -13,7 +13,7 @@ If you have any specific questions or problems please email Jason Loan (jloan@pi
 3. Proposed Lesson Title: Utilizing the Basic Functions of Microsoft Outlook
 4. Lesson Abstract (3-4 sentences):
 
-This lesson will aim to explain the setup and basic functions of the Microsoft Outlook application for ready use by students and faculty of Pierce College alike. The goal of this tutorial is to adequately prepare the reader to utilize the Microsoft Outlook application to monitor multiple email accounts, set up calendar events, and allow push notifications for emails and events.
+This lesson will aim to explain the setup and basic functions of the Microsoft Outlook application for ready use by students and faculty of Pierce College alike. The goal of this tutorial is to adequately prepare the reader to utilize the Microsoft Outlook application to monitor multiple email accounts, create calendar events, and allow push notifications for emails and events.
 
 5. A short description of the situation/need that your lesson responds to (consider details of purpose, audience, context):
 
