@@ -36,5 +36,5 @@ Then click on the “Header and Footer” tab located at the top left of the pag
 4. Then select the desired location of your page numbers and click ”OK”. If you are satisfied with the look of your page numbers you are done!
 
 <p align="center">
-  <img src="https://github.com/JackieParker99/Word-Instructions-Page-Numbers-Revision/blob/master/Word%20Page%20Number%20Snip%201.png" >
+  <img src="https://github.com/jloan/pierce-hacker-submissions/blob/master/images/word%20page%20numbers%201.png" >
 </p>
