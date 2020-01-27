@@ -17,7 +17,7 @@ This lesson will aim to explain the setup and basic functions of the Microsoft O
 
 5. A short description of the situation/need that your lesson responds to (consider details of purpose, audience, context):
 
-Students are often overwhelmed with the need to monitor multiple email accounts with school, work, and personal use in mind. The Microsoft Outlook App allows for students to monitor any and all email accounts through one medium.This will create less stress in needing to remember multiple passwords and creates a unified calendar system to help the students or faculty members better manage their time.
+Students are often overwhelmed with the need to monitor multiple email accounts with school, work, and personal use in mind. The Microsoft Outlook App allows for students to monitor any and all email accounts through one medium.This will reduce stress in this area by negating the need to remember multiple passwords and creates a unified calendar system to help the students or faculty members better manage their time.
 
 6. Learning Outcomes of Tutorial (between 2-3):
 
