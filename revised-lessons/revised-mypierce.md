@@ -1,3 +1,46 @@
+---
+layout: post
+title: "MyPierce Tutorial" 
+date:   2019-05-16 10:00:00
+category: tutorials
+author: "Luke" 
+---
+
+## **MyPierce Tutorial**
+
+
+> MyPierce is a portal for Students at Pierce College that allows them to keep track of their status at Pierce. Where a student can go to for advising, scheduling, and registration needs. 
+
+###### Logging In
+For this Tutorial, you will need:
+
+* Student Identification Number
+* Date of Birth for PIN -  mm/dd/yy 
+
+
+
+## Advising 
+### Great place to start
+
+
+#### Create a road map with the educational planner
+#####On the left side-bar click on the *Advising arrow*, then click on *"Educational Planner"*
+
+![side bar](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MyPierceGuide/Side_bar_pic.png)
+
+
+> The Educational Planner is a planning tool that allows students and advisors to communicate in forming an academic path.
+
+The classes in your plan are easily rearranged (if a class fills up and you’re unable to take it that quarter you can move on to plan B and move the full class over). You also have the option to copy the plan if you want to look try out different options. Additionally, you can share your plan with your advisor for quality checking. 
+
+![ed plan](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MyPierceGuide/EdPlan_pic.png)
+
+
+
+To create your plan first determine the academic quarter you plan to start.
+
+To add a class click the “+” button associated with the quarter you plan to begin. A pop up window will appear— to add a class, begin typing the course title as seen in the eSchedule. A drop down with options will appear and you can select the appropriate class.
+
 Students can also delete academic year sections. As in if they do not prefer to take summer classes, they can remove them and push them ontoa different quarter.
 
 If you have any questions or comments about the plan you created you have the option to leave a comment below under "User Comment:" 
