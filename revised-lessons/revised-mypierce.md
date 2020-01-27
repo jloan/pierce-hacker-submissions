@@ -3,7 +3,8 @@ layout: post
 title: "MyPierce Tutorial" 
 date:   2019-05-16 10:00:00
 category: tutorials
-author: "Luke" 
+author: "Luke"
+Revisor: "Jordan"
 ---
 
 ## **MyPierce Tutorial**
