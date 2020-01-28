@@ -4,24 +4,26 @@ title: "Microsoft Word Formatting"
 date:   2019-05-16 10:00:00
 category: tutorials
 author: "Samuel Detweiler"
+revised by: "William Jackson"
+date revised: 2020-01-27
 ---
 
 # Lesson Abstract:
 
-How to Add Formatting features to a Microsoft Word Document
+How to add basic Microsoft Word formatting for Word documents. 
 
 
-Lesson Objectives/Outcomes:
+Lesson Objectives/Outcomes students:
 
-1. Student will be able to duble space a paper in Word
-2. Student will be able to set up margins in Word
-3. Student will be able to center a title in Word
+  - will be able to set font size and style in Microsoft Word
+  - will be able to set margin sizes in Microsoft Word
+  - will be able to center text in Microsoft Word
 
 ## Materials:
-To complete this this tutorial a student must have Word.
+For this tutorial, students will need access to Microsoft Word.
 
 ## Overview:
-In this tutorial a student will learn how to properly set up their Papers to prepare them to be able to write in MLA format
+Students will be able to properly set font size and style, margin sizes, and center text in Microsoft Word.
 
 ## Lesson Steps/Components [as many as needed]:
 
