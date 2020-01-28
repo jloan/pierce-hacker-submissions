@@ -27,14 +27,17 @@ Students will be able to properly set font size and style, margin sizes, and cen
 
 ## Lesson Steps/Components [as many as needed]:
 
-### How to Set Font Size and Margins and Word
+### 1. How to format text style and size in Microsoft Word.
 
-1. Click on the "Home" tab then click on "Font" and change the font to "Times New Roman", Then change the font size to 12.
+  - Click on **Home>Font**, select **Times New Roman**.
+  - Select **font size 12**.
 
 ![Ms Word](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/MSWord_Format_Font.png)
 
 
-2. Click on the "Layout" tab...click on "Margins"...click on "Normal"...the margins will then be set to 1″ top, 1″ bottom,
+### 2. How to format margins in Microsoft Word.
+
+  - Click on the "Layout" tab...click on "Margins"...click on "Normal"...the margins will then be set to 1″ top, 1″ bottom,
     1″ left, 1″ right.
 
 ![MS Word](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59212784-254a5980-8b68-11e9-9dc1-7d131020be85.png)
