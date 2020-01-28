@@ -6,9 +6,7 @@ category: tutorials
 author: "Forrest Busching, Mark Garcia, Ty Melancon, & Thomas Wonser" 
 ---
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/Canvas Icon-F-01-01.png" width="760" height="760">
-</p>
+![canvas!](https://github.com/RaymondRau/e235/blob/master/canvas-logo-centered-very-light-gray.jpg.3.2x.generic.jpg)
 
 ## Lesson Abstact
 
@@ -45,43 +43,21 @@ There is a file storage area in the Canvas app that acts as a hub for you to use
 
 When you first open your Canvas app, you will be greeted by this screen.
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/SOPCreb.jpg" width="250" height="500">
-</p>
+![canvas!](https://github.com/RaymondRau/e235/blob/master/ad0f4ef7-3dca-4296-92c8-5daf07643f11.png)
 
 
 To get to the menu we want, select the three bars in the top left hand corner by tapping on it once with your finger.
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/aLbTDjw.jpg" width="250" height="500">
-</p>
-
-
-
 Now this will bring up a menu that has a number of choices. The one we are concerned with is the FILES tab. Select this tab by tapping it once with your finger.
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/hgCSzGJ.jpg" width="250" height="500">
-</p>
-
 This brings up the FILES storage. You can put new files in here or entire folders. You can also delete files. Note that turning in a file or folder does not delete it. So you could turn in the same file ten times and it would still be in the FILES storage. 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/D21iAfR.jpg" width="250" height="500">
-</p>
 
 Now that you are in the FILES storage you can upload files to it. First, select the plus sign in the bottom right hand corner by tapping it once with your finger. 
 
 This will bring up two options. The first is a file looking icon. Selecting this will create a new folder to help with organization. However we are concerned with the second icon which looks like an arrow pointing upwards. This is the "upload" option and will allow us to search for the file we want to upload to the FILES storage area.
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/HGRSFud.jpg" width="250" height="500">
-</p>
-
 The three options given to us are, Camera, Gallery, and Device. 
 
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/PH_CANVAS_Tutorial/fsNMBhA.jpg" width="250" height="500">
-</p>
 
 * Camera is for taking a picture of something 
 * Gallery allows you to look through your pictures already taken and select one or more
