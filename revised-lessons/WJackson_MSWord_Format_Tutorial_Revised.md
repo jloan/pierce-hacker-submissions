@@ -47,5 +47,5 @@ Students will be able to properly set font size and style, margin sizes, and cen
 
 ![MS Word](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59214136-4f514b00-8b6b-11e9-86ce-aafac447654f.png)
  
- https://github.com/jloan/pierce-hacker-submissions/blob/master/images/MSWord-Formatting/59212784-254a5980-8b68-11e9-9dc1-7d131020be85.png
+ 
 
