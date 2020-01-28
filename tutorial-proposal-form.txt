@@ -6,17 +6,26 @@ If you have any specific questions or problems please email Jason Loan (jloan@pi
 
 
 ## About You
-1. Your name(s)
-2. Your email address(es)
+1. Your name(s) Talavera, Roxie, M. "T"
+2. Your email address(es) rtalavera0344@smail.pcd.edu
 
 ## Lesson Metadata
 
-3. Proposed Lesson Title:
-4. Lesson Abstract (3-4 sentences):
-5. A short description of the situation/need that your lesson responds to (consider details of purpose, audience, context):
-6. Learning Outcomes of Tutorial (between 2-3):
-7. Course most relevant to your tutorial (if any): 
+3. Proposed Lesson Title: Google Drive File Upload
+
+4. Lesson Abstract (3-4 sentences): The primary purpose of revamping/ rewriting this current tutorial is for to learn more ways to access their Google Drive than just throught their laptops or desktop computers.  To educate all levels of students that there are other devices you can use to not only acces your Google Drive account through, but also save and pull up your files from.  Even if one does not have eiter one of their own personal devices on hand, they are still able to access and save from and save to their accounts.  
+
+5. A short description of the situation/need that your lesson responds to (consider details of purpose, audience, context): The current tutorial on the Google Drive File Upload, only gives the most basic info on how to upload a single file on to the drive.  It does not go into further detail of the different devices one can access through, or if one does not have their own personal device, how one can acces their drive to save files to by just pulling up their google account, or how one can set up an account to be able to upload to google drive.
+
+6. Learning Outcomes of Tutorial (between 2-3): Student audiences will be able to navigate and log into Google Drive/Apps for Education purposes. They will be able to use with more fluency and ease. Students will also be able to create, save and upload Google formatted files,docs, sheets, slids/presentations if they wanted to take it that much further from their drive download and account.
+
+7. Course most relevant to your tutorial (if any): ENGL 99-101, ENG&235 Tech Writing
+
 8. Discipline/Research Area most relevant to your tutorial (delete as appropriate) Humanities / Social Sciences / Mathematics / Natural Sciences / Physical Sciences / Business-Pro-Tech / other
-9. Intended Submission Date:
-10. Lesson will use open technology and data at no cost to the reader Yes / No
-11. Any other comments for the editor
+
+
+9. Intended Submission Date: 05 Feb 2020
+
+10. Lesson will use open technology and data at no cost to the reader Yes / No. (YES, NO COST AT ALL)
+
+11. Any other comments for the editor,  I am having a little difficulty on number 8) with the discipline/research area to whom this tutorial may be most relevant to? a little confused.  I would think maybe only buisness-pro-tech, then again maybe all of them as it's a saving and files/documents tool?? Any suggestions or insight that could possibly help?
