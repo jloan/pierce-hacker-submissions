@@ -14,40 +14,29 @@ author: "Uyen Do - Revised by Joe Drovdahl"
 
 >To provide multiple tips to help better the chances of students succeeding through the résumé screening process so that they can press that submit button with confidence!
 
-## Materials
+## Required Materials
 
 >A computer or device capable of working with Microsoft Word.
 
->Microfsoft Word will be required for this lesson.
-
-## Lesson Steps/Components [as many as needed]
-> First Step: Open Word. Click the “Resumes and Cover Letters” link under the search box to find the list of résumé templates.
-![alt text][open]
-![open](https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png)
-
-> Once this list is opened, the next step is to select a template that fits the style of résumé you wish to produce. There are several different styles and color schemes to choose from, so pick what feels right. If you scroll down the list a bit, you’ll also see some plainer resume templates designed for different purposes—like an entry-level, chronological, or extended CV style.
-![][] (https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png)
-
-> Some of the templates are already built into Word; others are a quick, free download from Office.com (and you won’t even have to leave Word to grab them). When you click to create a résumé, Word inform you of the download size (if it needs to download the template). Click the “Create” button and a few seconds later, you’ll be in your document and ready to edit.
-(https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png)
-
-Tips for Building a Professional Résumé
+## Tips for Building a Professional Résumé
 ----------------------
-1. Resume Layout:
- The layout is the first thing to affect the reader because it’s the first thing the brain processes—before even the text or texture is noticed. So, the resume’s layout is vital.
+1. Résumé Layout:
+ The layout is the first thing to affect the reader because it’s the first thing the brain processes—before even the text or texture is noticed. This makes the résumé's layout vital to survive the screening process.
 >a. Alignment:
-- Résumé alignment is straightforward: that’s because resumes are almost always left alighted since most people in the Western world read text from left to right.
-- Headings, experience bullet points, educational information, and additional skills should all be left aligned.
-- The exceptions are name and contact details: these can be center aligned.
+- The résumé should always be in left alignment as this is the easiest for the reader to digest.This includes all headings and bulleted lists.
+- The exceptions to this rule are the author's name and contact information, as these can be center or left aligned depending on the layout chosen by the student.
 >b. Length:
-- A professional résumé should be one-page in length. One-page résumés are focused, concise, and uncomplicated, which is what employers hope to see in résumés.
+- A professional résumé should be one-page in length. One-page résumés are focused, concise, and uncomplicated, which is what employers hope to see in résumés. 
+- If your résumé is longer than one-page, review the material and considere which elements are the most relevant to the reader.
 >c. Margin:
-- One-inch margins are the most frequently used and recommended length. Vary margins within a range of ½–1 inch. Do not create margins to be wider than this as it may leave too much "white space" within the résumé giving the appearance of a lack of content.
+- One-inch margins are the most frequently used and recommended dimensions for a résumé.
+- If your résumé is slightly longer than one-page in length, consider changing the margins to 1/2 inch size as this is also acceptable. 
+- Do not create margins to be wider than this as it may leave too much "white space" within the résumé giving the appearance of a lack of content.
+
+2. Résumé Fonts:
 >a. Font Styles: 
-- Before choosing a particular font style, students need to choose between serif and sans-serif fonts.
-- Serifs are the small lines attached to the ends of the letters.
-- Serif fonts are most commonly used in Word processing or other nontraditional forms of typesetting.
-- Note: Choosing between using sans or sans serif is a matter of personal preference—no font can be definitively said to be better than another
+- The chosen font style is dependent on the student's preferance; however, the goal should be to present the material in a professional manner. 
+- With this in mind, *Arial* and *Times New Roman* font styles are generally accepted professional fonts and, thus, is the safest options when writing a résumé.
 >b. Font Size:
 - Résumé font size should be linked directly to font style but usually between 11 and 12 point font.
 >c. Font Color:
