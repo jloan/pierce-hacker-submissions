@@ -3,29 +3,27 @@ layout: post
 title: "Resumes Templates For Tranferring Students" 
 date:   2019-06-14 10:00:00
 category: tutorials
-author: "Uyen Do and Joe Drovdahl" 
+author: "Uyen Do - Revised by Joe Drovdahl" 
 ---
 
 ## Lesson Abstact
->This lesson is to show students how to use Microfsoft Word to build a simple and professional résumé so that students can create one by themselves. Microsoft Word offers several résumé templates, each one possessing its own unique aspects. This gives students a plethora of options to showcase their skills and experience.
+>Pierce College students who are entering the workforce or who are aiming to transfer to a Bachelorette University have a need to present a simple and professional résumé that will display a student's strengths in the best way possible. Since a résumé is one of the first things that an employee or collegiate scout sees of an applicant, this is one of the most vital resources for any student to master.
 
 ## Lesson Objectives/Outcomes
->Show how to create a résumé using Microsoft Word.
+>To demonstrate how to create a simple and effective résumé using Microsoft Word.
 
->Provide multiple tips to help better the chances of students succeeding through the résumé screening process so that they can press that submit button with confidence!
+>To provide multiple tips to help better the chances of students succeeding through the résumé screening process so that they can press that submit button with confidence!
 
 ## Materials
 
+>A computer or device capable of working with Microsoft Word.
+
 >Microfsoft Word will be required for this lesson.
-
-## Overview
-
->Using and understanding Microsoft Word's Résumé Templates for tranferring students and people who want to apply for job.
 
 ## Lesson Steps/Components [as many as needed]
 > First Step: Open Word. Click the “Resumes and Cover Letters” link under the search box to find the list of résumé templates.
 ![alt text][open]
-[open]: https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png
+![open](https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png)
 
 > Once this list is opened, the next step is to select a template that fits the style of résumé you wish to produce. There are several different styles and color schemes to choose from, so pick what feels right. If you scroll down the list a bit, you’ll also see some plainer resume templates designed for different purposes—like an entry-level, chronological, or extended CV style.
 ![][] (https://drive.google.com/drive/folders/1AjRRF7NSXf-aClhVFDlVHMiIw3nsQddx.png)
