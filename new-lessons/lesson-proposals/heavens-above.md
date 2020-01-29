@@ -3,7 +3,9 @@
 2. jbaileyoh2@gmail.com
 
 ##Lesson Metadata
+
 3. Heavens Above Tacoma Tutorial
+
 4. Lesson Abstract: The purpose of writing this tutorial I have proposed is for astronomy students to easily access a virtual nigh sky for Tacoma. This will help direly during the winter time especially when at nightfall there is always overcast or rain blocking the telescopes. This will help students see the asterisms and their positions relative to one another when it is not visible outside.
 5. This is for Pierce College Astronomy students who cannot see the sky at night because of overcast during the winter.
 6. Students will be able to navigate and understand how to access and work the Heavens Above website and input their location as Tacoma to be able to see what you would see if you went outside on a clear night.
