@@ -55,6 +55,16 @@ author: "Joe Drovdahl - Inspired by Uyen Do"
 - Few candidates are willing to update or edit their résumé when applying for new jobs on a regular basis. This is often noted by recruiters who can perceive whether a résumé was written for them or for recruiters in general.
 - It is advised that your résumé be renewed for every job that you apply for in order to maintain relevance to the recruiters who are reading the résumé. This is another great way to help your résumé stand out from the others in the pile.
 
+## Sample Résumé Designs
+
+![Sample Résumé 01](https://github.com/Joe5565/e235/blob/master/images2/Sample_Re%CC%81sume%CC%81_01.jpg)
+
+![Sample Résumé Student](https://github.com/Joe5565/e235/blob/master/images2/Sample_Re%CC%81sume%CC%81_02.jpg)
+
+
+![Sample Résumé 03](https://github.com/Joe5565/e235/blob/master/images2/Sample_Re%CC%81sume%CC%81_03.jpg)
+
+
 ## Final Thoughts
 
 I hope that this tutorial has helped to demonstrate the general guidelines to writing a simple and effective résumé! If you have any more questions about how to write résumés for specific positions or industries, I would recommend that you research the Society of Human Resource Managers' (SHRM) official website or research the specific industry itself while keeping these basic principles in mind.
