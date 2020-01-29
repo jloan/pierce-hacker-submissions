@@ -16,7 +16,7 @@ Revisor: "Jordan"
 For this Tutorial, you will need:
 
 * Student Identification Number
-* Date of Birth for PIN -  mm/dd/yy 
+* Date of Birth for PIN -  (mm/dd/yy is the layout for your student pin.)
 
 
 
