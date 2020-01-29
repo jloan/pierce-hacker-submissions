@@ -10,7 +10,7 @@ Revisor: "Jordan"
 ## **MyPierce Tutorial**
 
 
-> MyPierce is a portal for Students at Pierce College that allows them to keep track of their status at Pierce. Where a student can go to for advising, scheduling, and registration needs. 
+* MyPierce is a portal for Students at Pierce College that allows them to keep track of their status at Pierce. Where a student can go to for advising, scheduling, and registration needs. 
 
 ###### Logging In
 For this Tutorial, you will need:
