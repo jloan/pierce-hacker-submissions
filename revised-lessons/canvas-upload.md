@@ -79,7 +79,7 @@ At this point you can select the option that best works for you.
 
 ## Submitting Assignments via File Upload
 
-Depending on your professor's organizational style, assignments can typically be found in a course's Module section or Assignment section. Discussion posts are a different type of assignment, and we will address that later on.
+Depending on your professor's organizational style, assignments can typically be found in a course's Module section or Assignment section. 
 
 Be sure to always check the rubric before submitting your assignment to understand exactly what is expected.
 
@@ -111,4 +111,5 @@ Hit Submit to turn in the assignment.
 
 
 
+That's it! Now you are ready to submit your assignments on Canvas mobile!
 
