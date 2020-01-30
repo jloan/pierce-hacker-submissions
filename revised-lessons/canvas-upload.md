@@ -111,5 +111,5 @@ Hit Submit to turn in the assignment.
 
 
 
-That's it! Now you are ready to submit your assignments on Canvas mobile!
+**Those are the basics! Now you are ready to submit your assignments on Canvas mobile!**
 
