@@ -18,7 +18,7 @@ Canvas is the program that students at Pierce College use to view/submit assignm
 
 ## Lesson Objectives
 
-* Accessing files from storage
+* Uploading files to Canvas storage
 * Submitting assignments via file upload
 * Submitting assignments via text entry box
 
