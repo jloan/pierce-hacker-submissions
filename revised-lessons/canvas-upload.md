@@ -37,7 +37,7 @@ Canvas is the program that students at Pierce College use to view/submit assignm
 
 ### Uploading Files into File Storage Folder
 
-There is a file storage area in the Canvas app that acts as a hub for you to use to turn in files from. This will explain how to upload files from your phone to this area so that you can then turn them in to your classes. Any assignment submitted will be stored in this folder.
+There is a file storage area in the Canvas app that acts as a hub for you to use to turn in files from. This will explain how to upload files from your phone to this area so that you can then turn them in to your classes. Any assignment submitted will also be stored in this folder, so you have access to view older assignments.
 
 
 
