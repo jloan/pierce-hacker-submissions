@@ -1,8 +1,8 @@
-
-
 <p align="center"> <h1> <font face="verdana"  color="#7D312F" markdown=1> 
 MyPierce Tutorial
 </font></p>
+
+
 
 <p>  <font face="verdana"  color="#2F7A7D" markdown=1> 
 Table Of Contents  
@@ -13,6 +13,8 @@ Table Of Contents
   * [Educational Planner](#Educational-planner)
   * [Schedule](#Scheduling)
   * [Registration Time/ Add/Drop Class](#Registration-and-Records)
+ 
+ ***
  
 # MyPierce
 
