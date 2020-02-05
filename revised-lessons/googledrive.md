@@ -70,7 +70,5 @@ After you click file upload, your file explorer will pop up and then you will cl
 Once you choose the file you want to upload, on the bottom right hand corner, it should show that your file is uploading. 
 
 ### Step 7
-<p align="center">
-  <img src="{{ site.baseurl }}/assets/images/GDriveFileUpload/58196158-8627f580-7c7e-11e9-9813-a9b3c9d5de34.png" >
-</p> 
+![view of storage space]()
 When your file is finished uploading, your file should appear in your storage and become accessible.
