@@ -18,3 +18,6 @@ Under the *Configuration* title, click on **"Change Your Observing Location"**
 
 # Step 4. 
 Go to the box that says **"Enter to search for"** and type "Tacoma". Scroll to the bottom of the page once Tacoma is selected and click the small **Update** button. Once you click the Update button, you will be returnedto the home page.
+
+# Step 5. 
+From the home page, Scroll sown to the *Astronomy* title, and click on **Sky Chart(Old Version)**.
