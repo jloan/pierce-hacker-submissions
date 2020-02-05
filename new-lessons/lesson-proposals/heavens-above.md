@@ -1,8 +1,8 @@
-##About Me
+## About Me
 1. Jordan Bailey
 2. jbaileyoh2@gmail.com
 
-##Lesson Metadata
+## Lesson Metadata
 
 3. Heavens Above Tacoma Tutorial
 
