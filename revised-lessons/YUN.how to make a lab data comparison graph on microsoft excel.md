@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to make a lab data graph comparison on microsoft excel" 
+title: "How to make a lab data comparison graph on microsoft excel" 
 date:   2020-01-30 10:00:00
 category: tutorials
 author: "Yun Zhou" 
