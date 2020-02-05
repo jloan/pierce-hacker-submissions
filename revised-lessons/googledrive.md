@@ -36,7 +36,7 @@ Accessibility
 ### Step 1 
 Get onto a pc, laptop or cellphone (does not have to be your own personal device). Then go onto your web browser and click on to Google Drive.
 
-![this is an image](https://github.com/jloan/pierce-hacker-submissions/blob/master/images/GDriveFileUpload/58118377-85775c80-7bb5-11e9-87eb-02be580f7ed5.png)
+![this is an image](https://i.ytimg.com/vi/bsJKpB4unqs/hqdefault.jpg)
 
 ### Step 2 
 <p align="center">
