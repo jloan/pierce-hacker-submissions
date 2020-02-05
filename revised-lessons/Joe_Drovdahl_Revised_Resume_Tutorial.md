@@ -6,13 +6,13 @@ category: tutorials
 author: "Joe Drovdahl - Inspired by Uyen Do" 
 ---
 
-## Lesson Abstact
+## Lesson Abstract
 >Pierce College students who are entering the workforce or who are aiming to transfer to a Bachelorette University have a need to present a simple and professional résumé that will display a student's strengths in the best way possible. Since a résumé is one of the first things that an employee or collegiate scout sees of an applicant, this is one of the most vital resources for any student to master.
 
 ## Lesson Objectives/Outcomes
->To demonstrate how to create a simple and effective résumé using Microsoft Word.
+* To demonstrate how to create a simple and effective résumé using Microsoft Word.
 
->To provide multiple tips to help better the chances of students succeeding through the résumé screening process so that they can press that submit button with confidence!
+* To provide multiple tips to help better the chances of students succeeding through the résumé screening process so that they can press that submit button with confidence!
 
 ## Required Materials
 
