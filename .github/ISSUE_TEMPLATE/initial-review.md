@@ -85,3 +85,7 @@ Consider:
 
 * In the tutorial has the author made clear when prior knowledge by the user will be useful because they are not going to cover a basic element of tool/technique/etc.? In this refence has the author linked/referred the user to additional resource that they can use to get this requisite skill?
 * Has the author referred the user to additional resources that might also be of use in developing the skill, etc.?
+
+## Final Thoughts and Recommendations
+
+All in all -- what do you recommend moving forward? 
