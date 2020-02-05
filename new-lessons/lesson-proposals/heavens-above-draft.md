@@ -1,6 +1,6 @@
 # Heavens Above for Tacoma Tutorial
-#### Jordan Bailey
-#### jbaileyoh2@gmail.com
+##### Jordan Bailey
+##### jbaileyoh2@gmail.com
 
  > Heavens Above for Tacoma Tutorial is for Piece College astronomy students to get access to a virtual night sky during any time of the year when the south sound region is covered in an overcast the majority of the time.
 ### What you will need: 
@@ -15,3 +15,6 @@ Click on the first link available called **Heavens Above** and you will be broug
 
 # Step 3. 
 Under the *Configuration* title, click on **"Change Your Observing Location"**
+
+# Step 4. 
+Go to the box that says **"Enter to search for"** and type "Tacoma". Scroll to the bottom of the page once Tacoma is selected and click the small **Update** button. Once you click the Update button, you will be returnedto the home page.
