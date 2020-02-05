@@ -21,3 +21,6 @@ Go to the box that says **"Enter to search for"** and type "Tacoma". Scroll to t
 
 # Step 5. 
 From the home page, Scroll sown to the *Astronomy* title, and click on **Sky Chart(Old Version)**.
+
+### Congradulations!
+> You have made it to the virtual sky chart of Tacoma, Washington which you can use anytime the overcast covers the night sky.
