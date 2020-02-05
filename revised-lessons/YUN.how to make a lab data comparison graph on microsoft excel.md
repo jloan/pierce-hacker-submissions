@@ -21,25 +21,18 @@ Microsoft Excel and a Microsoft Excel compatible device.
 
 
 ## Lesson Steps/Components
-### Step one:  
-Fill the excel sheet with your data.
+### Step one:  Fill the excel sheet with your data.
 
-![Step one](https://github.com/Yun0613/Technical-Writing/blob/master/Images/1-1.png)
+![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/1-1.png)
 
-### Step Two: 
-Highlight your data by moving the mouse from the beginning of your data to the end of your data. Then, click the insert tab and choose the type of excel graph you want to create. Here, I selected "Scatter" graph.
+### Step Two: Highlight your data by moving the mouse from the beginning of your data to the end of your data.Then, click the insert tab, and then choose the type of excel graph you want to create.Here, I selected "Scatter" graph.
+
 ![Step two](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2013.28.25.png) ![Scatter Graph as Following Picture](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2013.31.30.png)
 
-### Step Three: 
-Click "Chart Design", then click "Select Data". , then,  Loook about the picture steps in the following. 
+### Step Three: Click "Chart Design", then click "Select Data". Type first group name (Metal A) after "Name", and delete all information in "X values" and "Y values", then, Highlight your data by moving the mouse from the beginning of your data to the end of your data to the "X values" or "Y values". Loook about the picture steps in the following. 
 
-![Step Three](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2013.37.21.png)
 
-Type first group name (Metal A) after "Name", and delete all information in "X values" and "Y values"
-
-![Step Three Completed](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2013.37.44.png)
-Highlight your data by moving the mouse from the beginning of your data to the end of your data to the "X values" or "Y values".
-![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2013.37.34.png)
+![Step Three](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2013.37.21.png)![Step Three Completed](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2013.37.44.png)![](https://github.com/Yun0613/Technical-Writing/blob/master/Images/Screen%20Shot%202020-02-03%20at%2013.37.34.png)
 
 ### To add more sets of data, just click "+" button under the Legend entries(Series), Then do the same steps as Metal A. 
 
