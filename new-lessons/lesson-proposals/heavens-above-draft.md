@@ -5,3 +5,6 @@
 ### What you will need: 
 1. Computer
 2. Internet Access
+
+# Step 1. 
+Open any web browser on your computer and go into the search bar and type **Heavens Above** . Once typed into the search bar, press the enter key.
