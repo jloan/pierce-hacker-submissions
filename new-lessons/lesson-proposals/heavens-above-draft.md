@@ -9,3 +9,9 @@
 
 # Step 1. 
 Open any web browser on your computer and go into the search bar and type **Heavens Above** . Once typed into the search bar, press the enter key.
+
+# Step 2. 
+Click on the first link available called **Heavens Above** and you will be brought to a page as seen by the image below.
+
+# Step 3. 
+Under the *Configuration* title, click on **"Change Your Observing Location"**
