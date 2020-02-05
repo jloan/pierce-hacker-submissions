@@ -6,26 +6,26 @@ If you have any specific questions or problems please email Jason Loan (jloan@pi
 
 
 ## About You
-1. Your name(s) Talavera, Roxie, M. "T"
-2. Your email address(es) rtalavera0344@smail.pcd.edu
+1. Your name(s) Elias Coromina
+2. Your email address(es) s1gm4x@yahoo.com
 
 ## Lesson Metadata
 
-3. Proposed Lesson Title: Google Drive File Upload
+3. Proposed Lesson Title: How to upload Vids to Youtube
 
-4. Lesson Abstract (3-4 sentences): The primary purpose of revamping/ rewriting this current tutorial is for to learn more ways to access their Google Drive than just throught their laptops or desktop computers.  To educate all levels of students that there are other devices you can use to not only acces your Google Drive account through, but also save and pull up your files from.  Even if one does not have eiter one of their own personal devices on hand, they are still able to access and save from and save to their accounts.  
+4. Lesson Abstract (3-4 sentences): The primary purpose of writing this current tutorial is to learn how to quickly and efficiently learn to upload a video to youtube. I will also cover how to add tags and how to make the videos private\public\unlisted.
 
-5. A short description of the situation/need that your lesson responds to (consider details of purpose, audience, context): The current tutorial on the Google Drive File Upload, only gives the most basic info on how to upload a single file on to the drive.  It does not go into further detail of the different devices one can access through, or if one does not have their own personal device, how one can acces their drive to save files to by just pulling up their google account, or how one can set up an account to be able to upload to google drive.
+5. A short description of the situation/need that your lesson responds to (consider details of purpose, audience, context): I have had several classes that allowed videos and clips to be used as a means to complete projects but many students struggled with how to bring their finished project to the school in a economical or efficient manner. I would go as far to say some would bring a video on a piece of hardware to only find out that it was corrupt and having the video uploaded as a fall back would have saved them heart ache.
 
-6. Learning Outcomes of Tutorial (between 2-3): Student audiences will be able to navigate and log into Google Drive/Apps for Education purposes. They will be able to use with more fluency and ease. Students will also be able to create, save and upload Google formatted files,docs, sheets, slids/presentations if they wanted to take it that much further from their drive download and account.
+6. Learning Outcomes of Tutorial (between 2-3): Student audiences will be able to upload video fotage to youtube in a quick efficient manner. The Student audeince will also be able to navigate the privacy options for their uploads.
 
-7. Course most relevant to your tutorial (if any): ENGL 99-101, ENG&235 Tech Writing
+7. Course most relevant to your tutorial (if any): 
 
-8. Discipline/Research Area most relevant to your tutorial (delete as appropriate) Humanities / Social Sciences / Mathematics / Natural Sciences / Physical Sciences / Business-Pro-Tech / other
+8. Discipline/Research Area most relevant to your tutorial (delete as appropriate) Humanities/ Business-Pro-Tech / other
 
 
 9. Intended Submission Date: 05 Feb 2020
 
-10. Lesson will use open technology and data at no cost to the reader Yes / No. (YES, NO COST AT ALL)
+10. Lesson will use open technology and data at no cost to the reader Yes / No. NO COST AT ALL
 
-11. Any other comments for the editor,  I am having a little difficulty on number 8) with the discipline/research area to whom this tutorial may be most relevant to? a little confused.  I would think maybe only buisness-pro-tech, then again maybe all of them as it's a saving and files/documents tool?? Any suggestions or insight that could possibly help?
+11. Any other comments for the editor.
