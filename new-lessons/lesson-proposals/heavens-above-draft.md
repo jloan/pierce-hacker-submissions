@@ -23,3 +23,4 @@ From the home page, Scroll sown to the *Astronomy* title, and click on **Sky Cha
 
 ### Congradulations!
 > You have made it to the virtual sky chart of Tacoma, Washington which you can use anytime the overcast covers the night sky.
+> More Heavens Above tutorials will be coming in the future and combined into a large bank of tutorials.
