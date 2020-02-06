@@ -28,7 +28,7 @@ Be able to create a google account
 
 ### Step 4:
 * Enter in your birthday and gender. The rest are optional.
-!(Private Info](https://github.com/jloan/pierce-hacker-submissions/blob/master/new-lessons/Google/images/Sign%20up%20Tutorial%204.png)
+![Private Info](https://github.com/jloan/pierce-hacker-submissions/blob/master/new-lessons/Google/images/Sign%20up%20Tutorial%204.png)
 
 ### Step 5:
 * Read the Privacy and Terms, if there is no issue then press the "I agree" button
