@@ -24,8 +24,8 @@ Students will understand how to use an Ad Blocking extension to help eliminate u
 3. Popular Ad Blocking extensions
 4. Using Adblock extension
 
-## What is UBlockOrigin? 
-UblockOrigin is a Ad block extentsion for Google Chrome. 
+## What is Adblock? 
+Adblock is a Ad blocker extentsion for Google Chrome. 
 
 ## Why do we need Adblock? 
 AdBlock allows users to prevent page elements, such as advertisements, from being displayed. It makes browsing the internet safer by making the sites clearer and removing pop-ups or ads that would redirect you to other pages or ,even worse, can contain dangerous links that can steal your information.
