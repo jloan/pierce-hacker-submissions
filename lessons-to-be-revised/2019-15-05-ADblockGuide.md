@@ -30,7 +30,7 @@ UblockOrigin is a Ad block extentsion for Google Chrome.
 ## Why do we need Adblock? 
 AdBlock allows users to prevent page elements, such as advertisements, from being displayed. It makes browsing the internet safer by making the sites clearer and removing pop-ups or ads that would redirect you to other pages or ,even worse, can contain dangerous links that can steal your information.
 
-* Ad Blocking is a great if you don't to allow third-party tracking and targeting.  If you like advertisement that and specifically ones that show you your interests then you might not need Adblock. If you visit sites that have inappropriate ads or pop up ads you might want Adblock  
+Ad Blocking is a great if you don't to allow third-party tracking and targeting.  If you like advertisement that and specifically ones that show you your interests then you might not need Adblock. If you visit sites that have inappropriate ads or pop up ads you might want Adblock  
 
 
 ## Guide
