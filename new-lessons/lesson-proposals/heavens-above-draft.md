@@ -12,7 +12,7 @@ Open any web browser on your computer and go into the search bar and type **Heav
 # Step 2. 
 Click on the first link available called **Heavens Above** and you will be brought to a page as seen by the image below.
 
-![Image of HeavensAbove](https://www.hamradiostop.com/listing/heavens-above/)
+![Image of HeavensAbove](https://upload.wikimedia.org/wikipedia/commons/9/9b/Heavens-Above_Home_Page.jpg)
 
 # Step 3. 
 Under the *Configuration* title, click on **"Change Your Observing Location"**
